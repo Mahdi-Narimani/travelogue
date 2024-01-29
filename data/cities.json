@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Lacedonia",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-11-05T07:38:42.108Z",
+      "notes": "",
+      "position": {
+        "lat": "41.07268960512171",
+        "lng": "15.468750000000002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Lacedonia",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-11-05T07:47:11.355Z",
+      "notes": "",
+      "position": {
+        "lat": "41.08169446839593",
+        "lng": "15.440254211425783"
+      },
+      "id": 2
+    }
+  ]
+}
